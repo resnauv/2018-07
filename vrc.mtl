@@ -10,4 +10,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.000000
 illum 0
-map_Kd vrc.png
+map_Kd vrc.obj
+map_d vrc.obj
