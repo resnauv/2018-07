@@ -3,9 +3,9 @@
         {
             "bufferView" : 0,
             "componentType" : 5123,
-            "count" : 92679,
+            "count" : 55113,
             "max" : [
-                19996
+                13054
             ],
             "min" : [
                 0
@@ -15,49 +15,49 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
-                0.2644980549812317,
-                0.17075172066688538,
-                1.6865495443344116
+                0.26501694321632385,
+                1.6865495443344116,
+                0.2892988920211792
             ],
             "min" : [
-                -0.3982848525047302,
-                -0.2904382646083832,
-                -0.026960859075188637
+                -0.39752277731895447,
+                -0.024590609595179558,
+                -0.17060136795043945
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
-                0.999969482421875,
-                0.999969482421875,
+                0.99993896484375,
+                0.99945068359375,
                 0.999786376953125
             ],
             "min" : [
-                -0.999969482421875,
-                -0.999847412109375,
-                -0.999603271484375
+                -0.999908447265625,
+                -0.9989928603172302,
+                -0.999725341796875
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5126,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
                 1.0,
-                0.9999940395355225,
-                0.9999786615371704,
+                0.9999479651451111,
+                0.999945878982544,
                 1.0
             ],
             "min" : [
-                -0.9999887347221375,
-                -0.999961256980896,
-                -0.999957799911499,
+                -0.9999845623970032,
+                -0.9999131560325623,
+                -0.9999217391014099,
                 -1.0
             ],
             "type" : "VEC4"
@@ -65,13 +65,13 @@
         {
             "bufferView" : 4,
             "componentType" : 5126,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
                 0.9940579533576965,
                 0.9876264818012714
             ],
             "min" : [
-                0.01184353232383728,
+                0.01577209308743477,
                 0.02021801471710205
             ],
             "type" : "VEC2"
@@ -79,7 +79,7 @@
         {
             "bufferView" : 5,
             "componentType" : 5123,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
                 0,
                 0,
@@ -97,7 +97,7 @@
         {
             "bufferView" : 6,
             "componentType" : 5126,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
                 0.0,
                 0.0,
@@ -115,7 +115,7 @@
         {
             "bufferView" : 7,
             "componentType" : 5123,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
                 0,
                 0,
@@ -133,7 +133,7 @@
         {
             "bufferView" : 8,
             "componentType" : 5126,
-            "count" : 19997,
+            "count" : 13055,
             "max" : [
                 0.0,
                 0.0,
@@ -156,63 +156,63 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 185358,
+            "byteLength" : 110226,
             "byteOffset" : 0,
             "target" : 34963
         },
         {
             "buffer" : 0,
-            "byteLength" : 239964,
-            "byteOffset" : 185360,
+            "byteLength" : 156660,
+            "byteOffset" : 110228,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 239964,
-            "byteOffset" : 425324,
+            "byteLength" : 156660,
+            "byteOffset" : 266888,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 319952,
-            "byteOffset" : 665288,
+            "byteLength" : 208880,
+            "byteOffset" : 423548,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 159976,
-            "byteOffset" : 985240,
+            "byteLength" : 104440,
+            "byteOffset" : 632428,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 159976,
-            "byteOffset" : 1145216,
+            "byteLength" : 104440,
+            "byteOffset" : 736868,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 319952,
-            "byteOffset" : 1305192,
+            "byteLength" : 208880,
+            "byteOffset" : 841308,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 159976,
-            "byteOffset" : 1625144,
+            "byteLength" : 104440,
+            "byteOffset" : 1050188,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 319952,
-            "byteOffset" : 1785120,
+            "byteLength" : 208880,
+            "byteOffset" : 1154628,
             "target" : 34962
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 2105072,
-            "uri" : "vrc.bin"
+            "byteLength" : 1363508,
+            "uri" : "jjbapose-l.bin"
         }
     ],
     "extensionsUsed" : [
@@ -271,16 +271,10 @@
         {
             "mesh" : 0,
             "name" : "Body",
-            "rotation" : [
-                0.0,
-                0.0,
-                0.45364487171173096,
-                0.891182541847229
-            ],
             "translation" : [
                 0.0,
-                0.030086420476436615,
-                0.025741813704371452
+                0.025741813704371452,
+                -0.030086420476436615
             ]
         }
     ],
