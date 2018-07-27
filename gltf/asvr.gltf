@@ -220,23 +220,22 @@
     ],
     "images" : [
         {
-            "name" : "PodClassic_diff",
-            "uri" : "PodClassic_diff.png"
+            "name" : "PodClassic_Meeka",
+            "uri" : "PodClassic_Meeka.png"
         }
     ],
     "materials" : [
         {
-            "alphaMode" : "BLEND",
             "extensions" : {
                 "KHR_materials_unlit" : {}
             },
             "name" : "PodClassic_unlit_combined_mtl.001",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.0
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
                 ],
                 "baseColorTexture" : {
                     "index" : 0
