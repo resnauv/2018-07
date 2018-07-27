@@ -1,0 +1,305 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5123,
+            "count" : 92679,
+            "max" : [
+                19996
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 19997,
+            "max" : [
+                0.2644980549812317,
+                1.6865495443344116,
+                0.2904382646083832
+            ],
+            "min" : [
+                -0.3982848525047302,
+                -0.026960859075188637,
+                -0.17075172066688538
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 19997,
+            "max" : [
+                0.999969482421875,
+                0.999786376953125,
+                0.999847412109375
+            ],
+            "min" : [
+                -0.999969482421875,
+                -0.999603271484375,
+                -0.999969482421875
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 19997,
+            "max" : [
+                1.0,
+                0.9999786615371704,
+                0.999961256980896,
+                1.0
+            ],
+            "min" : [
+                -0.9999887347221375,
+                -0.999957799911499,
+                -0.9999940395355225,
+                -1.0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 19997,
+            "max" : [
+                0.9940579533576965,
+                0.9876264818012714
+            ],
+            "min" : [
+                0.01184353232383728,
+                0.02021801471710205
+            ],
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5123,
+            "count" : 19997,
+            "max" : [
+                0,
+                0,
+                0,
+                0
+            ],
+            "min" : [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 19997,
+            "max" : [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min" : [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 19997,
+            "max" : [
+                0,
+                0,
+                0,
+                0
+            ],
+            "min" : [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 19997,
+            "max" : [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min" : [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type" : "VEC4"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 185358,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 239964,
+            "byteOffset" : 185360,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 239964,
+            "byteOffset" : 425324,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 319952,
+            "byteOffset" : 665288,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 159976,
+            "byteOffset" : 985240,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 159976,
+            "byteOffset" : 1145216,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 319952,
+            "byteOffset" : 1305192,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 159976,
+            "byteOffset" : 1625144,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 319952,
+            "byteOffset" : 1785120,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 2105072,
+            "uri" : "vrc.bin"
+        }
+    ],
+    "extensionsUsed" : [
+        "KHR_materials_unlit"
+    ],
+    "images" : [
+        {
+            "name" : "ManualAtlas",
+            "uri" : "ManualAtlas.png"
+        }
+    ],
+    "materials" : [
+        {
+            "alphaMode" : "MASK",
+            "extensions" : {
+                "KHR_materials_unlit" : {}
+            },
+            "name" : "Material",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.6400000190734865,
+                    0.6400000190734865,
+                    0.6400000190734865,
+                    0.0
+                ],
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 0.0,
+                "roughnessFactor" : 0.9
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "TDA Gumi by canza52.000",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "JOINTS_0" : 5,
+                        "JOINTS_1" : 7,
+                        "NORMAL" : 2,
+                        "POSITION" : 1,
+                        "TANGENT" : 3,
+                        "TEXCOORD_0" : 4,
+                        "WEIGHTS_0" : 6,
+                        "WEIGHTS_1" : 8
+                    },
+                    "indices" : 0,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Body",
+            "rotation" : [
+                0.0,
+                0.45364487171173096,
+                -0.0,
+                0.891182541847229
+            ],
+            "translation" : [
+                0.0,
+                0.025741813704371452,
+                -0.030086420476436615
+            ]
+        }
+    ],
+    "samplers" : [
+        {}
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ]
+}
