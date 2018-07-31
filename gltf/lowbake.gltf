@@ -5,7 +5,7 @@
             "componentType" : 5123,
             "count" : 12648,
             "max" : [
-                5279
+                5195
             ],
             "min" : [
                 0
@@ -15,7 +15,7 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 5280,
+            "count" : 5196,
             "max" : [
                 51.499000549316406,
                 31.26270294189453,
@@ -31,7 +31,7 @@
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 5280,
+            "count" : 5196,
             "max" : [
                 1.0,
                 1.0,
@@ -47,21 +47,7 @@
         {
             "bufferView" : 3,
             "componentType" : 5126,
-            "count" : 5280,
-            "max" : [
-                4.332752704620361,
-                4.496815204620361
-            ],
-            "min" : [
-                -3.903064727783203,
-                -3.3327527046203613
-            ],
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 4,
-            "componentType" : 5126,
-            "count" : 5280,
+            "count" : 5196,
             "max" : [
                 0.9999085068702698,
                 0.9999115033933776
@@ -86,32 +72,26 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 63360,
+            "byteLength" : 62352,
             "byteOffset" : 25296,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 63360,
-            "byteOffset" : 88656,
+            "byteLength" : 62352,
+            "byteOffset" : 87648,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 42240,
-            "byteOffset" : 152016,
-            "target" : 34962
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 42240,
-            "byteOffset" : 194256,
+            "byteLength" : 41568,
+            "byteOffset" : 150000,
             "target" : 34962
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 236496,
+            "byteLength" : 191568,
             "uri" : "lowbake.bin"
         }
     ],
@@ -132,9 +112,9 @@
             "name" : "Material.022",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    1.0,
-                    1.0,
-                    1.0,
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
                     1.0
                 ],
                 "baseColorTexture" : {
@@ -153,8 +133,7 @@
                     "attributes" : {
                         "NORMAL" : 2,
                         "POSITION" : 1,
-                        "TEXCOORD_0" : 3,
-                        "TEXCOORD_1" : 4
+                        "TEXCOORD_0" : 3
                     },
                     "indices" : 0,
                     "material" : 0
